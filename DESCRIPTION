@@ -1,0 +1,18 @@
+Package: ct.malf.templates
+Type: Package
+Title: Template Images for Multi-Atlas Label Fusion ('MALF') for 
+    Computed Tomography ('CT') Images
+Version: 0.1
+Date: 2017-03-07
+Author: John Muschelli
+Maintainer: John Muschelli <muschellij2@gmail.com>
+Description: Data set of 'NIfTI' images with corresponding labels for 
+    multi-atlas labeling and label fusion of X-ray computed tomography
+    ('CT').
+License: GPL-2
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.0.1
+Suggests: knitr,
+    rmarkdown
+VignetteBuilder: knitr
