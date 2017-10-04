@@ -2,7 +2,7 @@ Package: ct.malf.templates
 Type: Package
 Title: Template Images for Multi-Atlas Label Fusion ('MALF') for 
     Computed Tomography ('CT') Images
-Version: 0.1
+Version: 0.1.0
 Date: 2017-03-07
 Author: John Muschelli
 Maintainer: John Muschelli <muschellij2@gmail.com>

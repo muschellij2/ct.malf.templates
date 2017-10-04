@@ -4,4 +4,5 @@
 .Ruserdata
 inst/doc
 
-inst/extdata/*
+inst/extdata/*.nii.gz
+inst/*.nii.gz
