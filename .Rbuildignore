@@ -5,5 +5,5 @@
 README\.md
 inst/demographics.xlsx
 inst/MICCAI-Challenge-2012-Label-Information.xlsx
-
 inst/extdata/make_brains\.R
+^appveyor\.yml$
